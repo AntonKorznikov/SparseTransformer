@@ -1,0 +1,13 @@
+torch>=2.1
+numpy>=1.24,<2
+tiktoken>=0.5
+datasets>=2.14
+huggingface_hub>=0.20
+tqdm
+tensorboard
+matplotlib
+scipy
+scikit-learn
+pandas
+# optional: PNG export of neuron dashboards
+# pyppeteer

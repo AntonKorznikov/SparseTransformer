@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data, checkpoints and experiment outputs
+data/tinystories/*.bin
+data/tinystories/meta.pkl
+out/
+logs/
+figures/
+*.pt
+*.npy
+
+# secrets
+openai_api_key.txt
+.env
